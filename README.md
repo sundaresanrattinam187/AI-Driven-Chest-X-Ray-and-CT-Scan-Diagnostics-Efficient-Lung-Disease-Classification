@@ -1,0 +1,2 @@
+# AI-Driven-Chest-X-Ray-and-CT-Scan-Diagnostics-Efficient-Lung-Disease-Classification
+An AI-based model for classifying lung diseases—Tuberculosis, Lung Cancer, and COVID-19—from chest X-rays using a hybrid of VGG19 and Capsule Neural Network. VGG19 extracts features; CapsNet enhances spatial understanding. Designed to assist in fast, accurate, and automated diagnosis in healthcare settings
