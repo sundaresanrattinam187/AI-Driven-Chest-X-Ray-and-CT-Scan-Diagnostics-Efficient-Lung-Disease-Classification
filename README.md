@@ -6,3 +6,6 @@ UI:
 
 Classification :
 
+![image alt](https://github.com/sundaresanrattinam187/AI-Driven-Chest-X-Ray-and-CT-Scan-Diagnostics-Efficient-Lung-Disease-Classification/blob/0f85f75de4b7dade1fb00bbf5e21c72a3157a6dd/2.jpg)
+
+
